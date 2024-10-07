@@ -1,4 +1,4 @@
-package ArraysProblem;
+package src.ArraysProblem;
 
 //https://leetcode.com/problems/set-matrix-zeroes/description/
 public class SetMatrix {
