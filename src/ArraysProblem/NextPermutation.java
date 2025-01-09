@@ -1,4 +1,4 @@
-package src.ArraysProblem;
+package ArraysProblem;
 //https://leetcode.com/problems/next-permutation/
 public class NextPermutation {
     /*
