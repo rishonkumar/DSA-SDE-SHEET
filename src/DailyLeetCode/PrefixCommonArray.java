@@ -3,7 +3,7 @@ package DailyLeetCode;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
-
+//https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
 public class PrefixCommonArray {
 
     public static int[] findThePrefixCommonArrayBF(int[] A, int[] B) {

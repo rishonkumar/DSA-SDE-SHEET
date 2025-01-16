@@ -23,7 +23,6 @@ public class ReOrderList {
             prev = curr;
             curr = tmp;
         }
-
         //merge
         ListNode first = head, second = prev;
 
