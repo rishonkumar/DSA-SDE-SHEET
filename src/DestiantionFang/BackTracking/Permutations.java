@@ -38,4 +38,9 @@ public class Permutations {
             }
         }
     }
+
+    public static String check(String[] args) {
+
+        return "Hello";
+    }
 }
