@@ -35,7 +35,7 @@ public class survivedRobotsHealths {
                         stack.push(topIndex);
                     } else if(healths[currentIndex] > healths[topIndex]) {
                         healths[currentIndex] -= 1;
-                        healths[currentIndex] = 0;
+                        healths[topIndex] = 0;
                     } else {
                         healths[currentIndex] = 0;
                         healths[topIndex] = 0;
