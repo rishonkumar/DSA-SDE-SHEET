@@ -1,5 +1,5 @@
 package ArraysProblem;
-
+//https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/submissions/1961448113/?envType=daily-question&envId=2026-03-27
 public class MatrixSimilarityCyclicShifts {
 
     public boolean areSimilar(int[][] mat, int k) {
